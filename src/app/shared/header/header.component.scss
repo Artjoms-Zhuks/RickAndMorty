@@ -1,0 +1,28 @@
+header{
+  margin: 100px;
+  text-align: center;
+
+  .header_inner{
+    align-items:center;
+    display: flex;
+    justify-content: center;
+
+
+  }
+
+  h1{
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 70px;
+
+
+  }
+
+  .Tet_logo{
+    width: 100px;
+   // height: 100px;
+   margin-left: 2rem;
+    display: inline-block;
+
+  }
+}
+
